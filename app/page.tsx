@@ -1,4 +1,5 @@
 import { ShieldCheck, Server, BrainCircuit, Terminal, Blocks, Briefcase, Calendar, Mail, ExternalLink } from "lucide-react";
+
 export default function Home() {
   const experiences = [
     {
@@ -25,9 +26,19 @@ export default function Home() {
       ]
     },
     {
-      role: "Fullstack AI/Data Developer",
+      role: "Engineering Intern",
+      company: "Enel Colombia",
+      period: "Feb 2024 – Jul 2024",
+      location: "Bogotá, Colombia",
+      achievements: [
+        "Systems Engineering: Analyzed and optimized engineering processes to improve operational efficiency within the energy sector.",
+        "Research & Documentation: Conducted technical research to support ongoing infrastructure projects and systems integration."
+      ]
+    },
+    {
+      role: "System Engineering Intern (AI/Data)",
       company: "Universidad Nacional de Colombia",
-      period: "Oct 2023 – Feb 2024",
+      period: "Aug 2023 – Feb 2024",
       location: "Bogotá, Colombia",
       achievements: [
         "HORUS UNAL Project: Extracted, processed, and visualized scientific data utilizing Python, Django, and Docker.",
@@ -35,9 +46,9 @@ export default function Home() {
       ]
     },
     {
-      role: "Frontend Developer (React)",
-      company: "SIIGO",
-      period: "Jan 2023 – Aug 2023",
+      role: "Front-end Developer",
+      company: "Siigo",
+      period: "Feb 2023 – Jul 2023",
       location: "Bogotá, Colombia",
       achievements: [
         "Micro-frontends: Contributed to the development of modular React interfaces within a Dockerized environment for the LATAM market.",
