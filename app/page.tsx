@@ -73,7 +73,7 @@ export default function Home() {
         <p className="text-lg md:text-xl text-gray-400 mb-10 leading-relaxed max-w-3xl">
           Dual-degree engineer delivering holistic security solutions. From aligning IT assets with 
           NIS2 and ANSSI standards, to architecting secure Kubernetes clusters and integrating LLMs. 
-          Trilingual professional (English, French, Spanish) seeking a CDI starting October 2026.
+          Trilingual professional (English, French, Spanish) seeking an opportunity in cybersecurity (PhD or CDI) starting October 2026.
         </p>
         <div className="flex gap-4 justify-center">
           <a href="#experience" className="px-8 py-3 rounded-full bg-white text-black font-semibold hover:bg-gray-200 transition duration-300">
@@ -168,7 +168,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-3xl font-bold mb-6">Let's Connect</h3>
           <p className="text-gray-400 mb-10 max-w-xl mx-auto">
-            I am actively seeking a full-time CDI starting in October 2026. Whether you have a position in mind or just want to discuss cybersecurity and software architecture, my inbox is open.
+            I am actively seeking an opportunity in cybersecurity (PhD or CDI) starting in October 2026. Whether you have a position in mind or just want to discuss cybersecurity and software architecture, my inbox is open.
           </p>
           
           <div className="flex flex-wrap justify-center gap-6 mb-12">
